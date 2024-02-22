@@ -5,4 +5,4 @@
 - CSS
 
 ## Deploy
-
+https://1joaovctr.github.io/Parallax/
